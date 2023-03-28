@@ -1,0 +1,3 @@
+﻿  game.cpp
+C:\Users\Panagiotis\OneDrive - aueb.gr\Desktop\PROJECTS\CPP PROJECT\Game\Game\Game\game.cpp(18,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.vcxproj -> C:\Users\Panagiotis\OneDrive - aueb.gr\Desktop\PROJECTS\CPP PROJECT\Game\Game\bin\Gamed.exe

@@ -1,0 +1,14 @@
+﻿  Bullet.cpp
+  Enemy.cpp
+C:\Users\Panagiotis\OneDrive - aueb.gr\Desktop\PROJECTS\CPP PROJECT\Game\Game\Game\Enemy.cpp(148,19): warning C4305: 'return': truncation from 'int (__cdecl *)(void)' to 'bool'
+  game.cpp
+C:\Users\Panagiotis\OneDrive - aueb.gr\Desktop\PROJECTS\CPP PROJECT\Game\Game\Game\game.cpp(18,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameObject.cpp
+  main.cpp
+  Player.cpp
+  util.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 324 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game.vcxproj -> C:\Users\Panagiotis\OneDrive - aueb.gr\Desktop\PROJECTS\CPP PROJECT\Game\Game\bin\Game.exe
